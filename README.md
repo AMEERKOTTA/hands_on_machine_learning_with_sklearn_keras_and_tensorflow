@@ -2,3 +2,4 @@
 Study of Machine Learning
 
 Chapter 1 : 
+Chapter 2 : 
