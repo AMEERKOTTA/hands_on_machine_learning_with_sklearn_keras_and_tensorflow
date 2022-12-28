@@ -5,4 +5,5 @@ Study of Machine Learning
 
 + Chapter 1 : The Machine Learning Landscape.
 + Chapter 2 : End-to-End Machine Learning Project.
-+ Chapter 3 :
++ Chapter 3 : 
++ Chapter 4 : 
