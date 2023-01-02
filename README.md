@@ -5,7 +5,7 @@ Study of Machine Learning
 
 + Chapter 1 : The Machine Learning Landscape.
 + Chapter 2 : End-to-End Machine Learning Project.
-                + Look at the Big Picture (Problem Statement)
+                * Look at the Big Picture (Problem Statement)
                 + Get the Data.
                 + Discover and Visualize the Data for better Understanding.
                 + Prepare the Data for ML Algorithms.
