@@ -8,5 +8,6 @@ Study of Machine Learning
                 + Look at the Big Picture (Problem Statement)
                 + Get the Data.
                 + Discover and Visualize the Data for better Understanding.
+                + Prepare the Data for ML Algorithms.
 + Chapter 3 : 
 + Chapter 4 : 
