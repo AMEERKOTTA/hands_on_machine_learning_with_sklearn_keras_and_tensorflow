@@ -10,7 +10,8 @@ Study of Machine Learning
                 + Discover and Visualize the Data for better Understanding.
                 + Prepare the Data for ML Algorithms.
                 + Select and Train the Models.
-                +Fine Tine your Model.
+                + Fine Tine your Model.
+                + Present the Soluiton to Stakeholders.
                 
 + Chapter 3 : 
 + Chapter 4 : 
