@@ -7,6 +7,6 @@ Study of Machine Learning
 + Chapter 2 : End-to-End Machine Learning Project.
                 + Look at the Big Picture (Problem Statement)
                 + Get the Data.
-                + 
+                + Discover and Visualize the Data for better Understanding.
 + Chapter 3 : 
 + Chapter 4 : 
