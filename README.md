@@ -12,6 +12,7 @@ Study of Machine Learning
                 + Select and Train the Models.
                 + Fine Tine your Model.
                 + Present the Soluiton to Stakeholders.
+                + Launch, Monitor and Maintain your System.
                 
 + Chapter 3 : 
 + Chapter 4 : 
