@@ -4,6 +4,8 @@ Study of Machine Learning
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
 + Chapter 1 : The Machine Learning Landscape.
+
+
 + Chapter 2 : End-to-End Machine Learning Project.
    * Look at the Big Picture (Problem Statement)
    + Get the Data.
@@ -18,4 +20,4 @@ Study of Machine Learning
    + MNIST Datasets
    + Training Binary Classifier
 
-+ Chapter 4 : 
++ Chapter 4 : Training Models
