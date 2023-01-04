@@ -3,7 +3,8 @@ Study of Machine Learning
 
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
-+ Chapter 1 : The Machine Learning Landscape.
++ *Chapter 1 : The Machine Learning Landscape.*
+
 
 
 + Chapter 2 : End-to-End Machine Learning Project.
