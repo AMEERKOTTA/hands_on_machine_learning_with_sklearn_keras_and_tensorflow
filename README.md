@@ -25,6 +25,7 @@ Study of Machine Learning
    + Confusion Matrix
    + Precision and Recall
    + Precision Recall Trade off.
+   + ROC Curve
    
 
 + Chapter 4 : Training Models
