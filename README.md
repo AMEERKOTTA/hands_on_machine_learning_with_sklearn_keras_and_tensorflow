@@ -23,6 +23,7 @@ Study of Machine Learning
    + Perfomance Measures.
    + Cross Validation method with and without Scikit Learn
    + Confusion Matrix
+   + Precision and Recall
    
 
 + Chapter 4 : Training Models
