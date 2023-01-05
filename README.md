@@ -27,6 +27,9 @@ Study of Machine Learning
    + Precision Recall Trade off.
    + ROC Curve
    + Area Under Curve Method
-   
+   + MultiClass Classification.
+   + Multilabel Classification.
+   + MultiOutput Classification.
+   + Error Analysis.
 
 + Chapter 4 : Training Models
