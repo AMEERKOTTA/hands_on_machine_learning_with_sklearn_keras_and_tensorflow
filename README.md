@@ -26,6 +26,7 @@ Study of Machine Learning
    + Precision and Recall
    + Precision Recall Trade off.
    + ROC Curve
+   + Area Under Curve Method
    
 
 + Chapter 4 : Training Models
