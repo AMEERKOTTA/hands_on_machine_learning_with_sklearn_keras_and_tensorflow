@@ -21,6 +21,7 @@ Study of Machine Learning
    + MNIST Datasets
    + Training Binary Classifier
    + Perfomance Measures.
+   + Cross Validation method with and without Scikit Learn
    
 
 + Chapter 4 : Training Models
