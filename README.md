@@ -20,5 +20,7 @@ Study of Machine Learning
 + Chapter 3 : Classification
    + MNIST Datasets
    + Training Binary Classifier
+   + Perfomance Measures.
+   
 
 + Chapter 4 : Training Models
