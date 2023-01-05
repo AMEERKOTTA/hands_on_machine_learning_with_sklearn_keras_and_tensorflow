@@ -24,6 +24,7 @@ Study of Machine Learning
    + Cross Validation method with and without Scikit Learn
    + Confusion Matrix
    + Precision and Recall
+   + Precision Recall Trade off.
    
 
 + Chapter 4 : Training Models
