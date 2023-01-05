@@ -22,6 +22,7 @@ Study of Machine Learning
    + Training Binary Classifier
    + Perfomance Measures.
    + Cross Validation method with and without Scikit Learn
+   + Confusion Matrix
    
 
 + Chapter 4 : Training Models
