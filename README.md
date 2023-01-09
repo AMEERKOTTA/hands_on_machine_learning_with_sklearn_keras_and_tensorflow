@@ -4,11 +4,11 @@ Study of Machine Learning
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
 + *Chapter 1 : The Machine Learning Landscape.*
-   + Ameer Kotta
+   + 
 
 
 
-+ Chapter 2 : End-to-End Machine Learning Project.
++ *Chapter 2 : End-to-End Machine Learning Project.*
    * Look at the Big Picture (Problem Statement)
    + Get the Data.
    + Discover and Visualize the Data for better Understanding.
