@@ -18,7 +18,7 @@ Study of Machine Learning
    + Present the Soluiton to Stakeholders.
    + Launch, Monitor and Maintain your System.
                 
-+ Chapter 3 : Classification
++ *Chapter 3 : Classification*
    + MNIST Datasets
    + Training Binary Classifier
    + Perfomance Measures.
