@@ -33,4 +33,4 @@ Study of Machine Learning
    + MultiOutput Classification.
    + Error Analysis.
 
-+ Chapter 4 : Training Models
++ *Chapter 4 : Training Models*
