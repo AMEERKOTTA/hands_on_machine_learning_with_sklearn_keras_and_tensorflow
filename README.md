@@ -4,7 +4,6 @@ Study of Machine Learning
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
 + *Chapter 1 : The Machine Learning Landscape.*
-   + 
 
 
 
