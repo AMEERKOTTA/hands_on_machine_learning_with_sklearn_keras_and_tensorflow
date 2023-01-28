@@ -34,3 +34,4 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
    + Error Analysis.
 
 + *Chapter 4 : Training Models*
++ *Chapter 5 : *
