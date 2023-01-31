@@ -37,6 +37,6 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
 + *Chapter 5 : Support Vector Machines*
 
 
-**PART 2 :- NEURAL NETWORKS AND DEEP LEARNING**
+**PART 2 : NEURAL NETWORKS AND DEEP LEARNING**
 
-+ Section 10 : Introduction to Artificial Neural Networks with Keras.
++ *Section 10 : Introduction to Artificial Neural Networks with Keras.*
