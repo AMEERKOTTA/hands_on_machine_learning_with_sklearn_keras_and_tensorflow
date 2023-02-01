@@ -46,4 +46,4 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
     + Multilayer Perceptron and BackPropogation.
     + Regression MLPs.
     + Classification MLPs.
-    + Building an Image Classifier using Sequnetial API
+    + Building an Image Classifier using Sequential API
