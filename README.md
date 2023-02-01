@@ -40,6 +40,7 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
 **PART 2 : NEURAL NETWORKS AND DEEP LEARNING**
 
 + *Section 10 : Introduction to Artificial Neural Networks with Keras.*
+
     + Introduction.
     + Perceptrons and Different Varities.
     + Implementing Perceptron using Scikit Learn method.
