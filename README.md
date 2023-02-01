@@ -49,3 +49,4 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
     + Classification MLPs.
     + Building an Image Classifier using Sequential API.
     + Building a Regression MLP using Sequential API.
+    + Building Regression MLP using Functional API - method1
