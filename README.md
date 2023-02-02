@@ -51,4 +51,4 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
     + Building a Regression MLP using Sequential API.
     + Building Regression MLP using Functional API - method1
     + Building the model using Functional API by feeding in different directions.
-          + wide path and deep path.
+         + wide path and deep path.
