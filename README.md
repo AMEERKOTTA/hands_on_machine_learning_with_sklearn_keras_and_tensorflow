@@ -53,3 +53,5 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
     + Building the model using Functional API by feeding in different directions.
          + wide path and deep path.
     + Building the model using SubClassing API methods.
+    
++ Chapter 11 : Training Deep Neural Networks.
