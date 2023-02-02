@@ -54,4 +54,4 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
          + wide path and deep path.
     + Building the model using SubClassing API methods.
     
-+ Chapter 11 : Training Deep Neural Networks.
++ *Chapter 11 : Training Deep Neural Networks.*
