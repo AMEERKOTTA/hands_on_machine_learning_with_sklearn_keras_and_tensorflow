@@ -5,6 +5,7 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
 
 + *Chapter 1 : The Machine Learning Landscape.*
   + Introduction
+  + Machine Learning Landscape.
 
 
 
