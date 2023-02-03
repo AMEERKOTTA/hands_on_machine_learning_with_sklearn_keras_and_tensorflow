@@ -1,5 +1,5 @@
 # hands_on_machine_learning_with_sklearn_keras_and_tensorflow
-Study of Machine Learning. This book contains PART A and PART B. PART A Explains the Fundamentals of Machine Learning. PART B Explains Neural Networks and Deep Learning.
+*Study of Machine Learning. This book contains PART A and PART B. PART A Explains the Fundamentals of Machine Learning. PART B Explains Neural Networks and Deep Learning.*
 
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
