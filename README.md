@@ -36,6 +36,7 @@ Study of Machine Learning. This book contains PART A and PART B. PART A Explains
 
 + *Chapter 4 : Training Models*
 + *Chapter 5 : Support Vector Machines*
++ Chapter 6
 
 
 **PART 2 : NEURAL NETWORKS AND DEEP LEARNING**
