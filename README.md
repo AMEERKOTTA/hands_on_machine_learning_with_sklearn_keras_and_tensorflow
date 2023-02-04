@@ -6,7 +6,8 @@
 
 + *Chapter 1 : The Machine Learning Landscape.*
   + Introduction
-  + Machine Learning Landscape
+  + Machine Learning Landscape.
+  
 
 
 
