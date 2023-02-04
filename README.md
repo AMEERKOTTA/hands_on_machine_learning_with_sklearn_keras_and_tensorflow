@@ -61,3 +61,5 @@
 + *Chapter 11 : Training Deep Neural Networks.*
     + Introduction
     + Vanishing Gradient and Exploding Gradient Theory.
+    + glorot and he initializations.
+    + 
