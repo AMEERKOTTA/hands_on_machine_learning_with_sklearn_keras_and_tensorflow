@@ -59,3 +59,5 @@
     + Building the model using SubClassing API methods.
     
 + *Chapter 11 : Training Deep Neural Networks.*
+    + Introduction
+    + 
