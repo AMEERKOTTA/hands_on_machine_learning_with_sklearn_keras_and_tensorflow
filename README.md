@@ -64,4 +64,4 @@
     + glorot and he initializations.
     + Reusing Pretrained Layers.
     + Discussion on Faster Optimizers.
-    + 
+    + Learning Rate Scheduling.
