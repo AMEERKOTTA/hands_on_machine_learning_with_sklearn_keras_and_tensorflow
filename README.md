@@ -68,3 +68,7 @@
     + Reusing Pretrained Layers.
     + Discussion on Faster Optimizers.
     + Learning Rate Scheduling
+    
++ *Chapter 12 : Custom Models and Training with TensorFlow*
+    + Introduction
+    
