@@ -74,5 +74,5 @@
     
 + Chapter 13 :
 
-+ Chapter 14 : Deep Computer Vision Using Convolutional Neural Networks
++ *Chapter 14 : Deep Computer Vision Using Convolutional Neural Networks*
     
