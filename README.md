@@ -72,3 +72,7 @@
 + *Chapter 12 : Custom Models and Training with TensorFlow.*
     + Introduction
     
++ Chapter 13 :
+
+
+    
