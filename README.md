@@ -72,7 +72,7 @@
 + *Chapter 12 : Custom Models and Training with TensorFlow.*
     + Introduction
     
-+ Chapter 13 :
++ *Chapter 13 :*
 
 + *Chapter 14 : Deep Computer Vision Using Convolutional Neural Networks*
     
