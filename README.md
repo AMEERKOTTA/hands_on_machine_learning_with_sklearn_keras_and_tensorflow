@@ -77,4 +77,5 @@
 + *Chapter 14 : Deep Computer Vision Using Convolutional Neural Networks*
     + Introduction
     + Convolutional Layer
+    + CNN Architecture with Explanation.
     
