@@ -79,4 +79,5 @@
     + Convolutional Layer
     + CNN Architecture with Explanation.
     + LeNet-5 Architecture.
+    + AlexNet Architecture.
     
