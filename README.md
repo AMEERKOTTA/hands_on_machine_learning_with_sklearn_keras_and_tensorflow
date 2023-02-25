@@ -83,4 +83,5 @@
     + Google Net Architecture.
 
 + *Chapter 15 : Processing Seuences Using RNNs and CNNs.*
+    + Basic Linear Regression Model for Forecasting and Prediction.
     
