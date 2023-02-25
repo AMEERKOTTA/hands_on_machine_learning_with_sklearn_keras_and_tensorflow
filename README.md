@@ -81,4 +81,6 @@
     + LeNet-5 Architecture.
     + AlexNet Architecture.
     + Google Net Architecture.
+
++ *Chapter 15 : Processing Seuences Using RNNs and CNNs.*
     
