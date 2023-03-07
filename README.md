@@ -86,5 +86,5 @@
     + Basic Linear Regression Model for Forecasting and Prediction.
     
 
-
+**KERAS PRACTICE**
 **INTRO TO TENSORFLOW FOR DEEP LEARNING - COURSE AND EXERCISES FROM UDACITY**
