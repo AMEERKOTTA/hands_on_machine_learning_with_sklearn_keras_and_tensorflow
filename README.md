@@ -85,3 +85,6 @@
 + *Chapter 15 : Processing Seuences Using RNNs and CNNs.*
     + Basic Linear Regression Model for Forecasting and Prediction.
     
+
+
+**INTRO TO TENSORFLOW FOR DEEP LEARNING - COURSE AND EXERCISES FROM UDACITY**
