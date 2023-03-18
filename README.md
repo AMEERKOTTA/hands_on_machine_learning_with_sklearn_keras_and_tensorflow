@@ -2,6 +2,7 @@
 ## Concepts, tools and Techniques to Build Intelligent Systems.
 *Study of Machine Learning. This book contains PART A and PART B. *PART A Explains the Fundamentals of Machine Learning.* *PART B Explains Neural Networks and Deep Learning.**
 
+
 **PART 1 : THE FUNDAMENTALS OF MACHINE LEARNING**
 
 + *Chapter 1 : The Machine Learning Landscape.*
