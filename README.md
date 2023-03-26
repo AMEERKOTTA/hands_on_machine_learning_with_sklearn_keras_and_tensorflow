@@ -45,7 +45,7 @@
 + *Chapter 9*
 
 
-## **PART 2 : NEURAL NETWORKS AND DEEP LEARNING**
+## **PART B : NEURAL NETWORKS AND DEEP LEARNING**
 
 + *Chapter 10 : Introduction to Artificial Neural Networks with Keras.*
 
