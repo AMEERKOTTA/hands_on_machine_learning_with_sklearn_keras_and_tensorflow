@@ -1,6 +1,6 @@
 # HANDS ON MACHINE LEARNING WITH SCIKIT-LEARN, KERAS AND TENSORFLOW
 ## Concepts, tools and Techniques to Build Intelligent Systems
-*Study of Machine Learning. This book contains PART A and PART B. *PART A Explains the Fundamentals of Machine Learning.* *PART B Explains Neural Networks and Deep Learning.**
+**Study of Machine Learning. This book contains PART A and PART B. *PART A Explains the Fundamentals of Machine Learning.* *PART B Explains Neural Networks and Deep Learning.**
 
 
 ## **PART A : THE FUNDAMENTALS OF MACHINE LEARNING**.
